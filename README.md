@@ -1,6 +1,3 @@
-
-![image](https://github.com/user-attachments/assets/01393c19-4af6-4f0e-bf07-7db737512b78)
-
 # Innopad Technologies Group 🚀
 
 ### **Product-Led Engineering for AI, SaaS & Scalable Platforms**
