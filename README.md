@@ -138,6 +138,6 @@ We focus on building systems that **don’t break under growth.**
 
 > *“We don’t just deliver software. We bring structure to execution and clarity to product decisions.”*
 
-— **Kandarp Bhatt, Director of Product & Delivery**
+— **Kandarp Bhatt, Director of Product**
 
 ⭐ Follow our GitHub to explore upcoming tools, frameworks, and case studies around AI, SaaS, and scalable systems.
